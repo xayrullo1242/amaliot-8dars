@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+.contianer {
+    max-width: 1240px;
+    margin: 0 auto;
+}
+
+.header-wrapper {
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+
+.header-list {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.text1 {
+    width: 743px;
+    height: 186;
+    margin: auto;
+    text-align: center;
+
+}
+
+.ota{
+    width: 1240px;
+    margin: 0 auto;
+}
+
+.box{
+    width: 393px;
+}
